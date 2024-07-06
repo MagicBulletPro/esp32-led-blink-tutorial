@@ -7,10 +7,6 @@ A beginner-friendly project to learn how to blink an LED using the ESP32 microco
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Wiring](#wiring)
-- [Usage](#usage)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
 
 ## Introduction
 
